@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 15,
+		"supported_formats": [15, 22],
+        "description": "\u00a7e\u00a7lIsland\u00a7bᴘᴀᴄᴋ\n\u00a7a𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝐜𝐮𝐬𝐭𝐨𝐦 𝐦𝐨𝐝𝐞𝐥𝐬 𝐟𝐨𝐫 𝐈𝐬𝐥𝐚𝐧𝐝𝐬"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
+				"directory": "overlay_18"
+			}
+		]
+	}
+}
