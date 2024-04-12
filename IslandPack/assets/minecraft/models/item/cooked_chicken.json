@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/cooked_chicken",
+  "textures": {
+    "layer0": "minecraft:item/cooked_chicken"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 5}, "model": "custom:item/pizza"}
+  ]
+}
