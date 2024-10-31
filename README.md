@@ -1,1 +1,1 @@
-# This repo is for storing Islands' Custom Packs
+# Islands 1.5 Christmas Edition
